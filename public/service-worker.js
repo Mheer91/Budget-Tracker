@@ -1,3 +1,4 @@
+//Boiler plate service-worker with updated cache file list
 const FILES_TO_CACHE = [
     "/",
     "/index.html",
