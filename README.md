@@ -5,6 +5,7 @@ For this assignment we were given starter code and had to create full offline fu
 
 ## Links
 [Repo](https://github.com/Mheer91/Budget-Tracker)
+___
 [Heroku](https://budget-tracker-yey.herokuapp.com/)
 
 ## Screenshots
